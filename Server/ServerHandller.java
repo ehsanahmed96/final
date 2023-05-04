@@ -18,7 +18,7 @@ import java.util.logging.Logger;
  *
  * @author dell
  */
-public class ServerHandller extends Thread {
+public class ServerHandller extends  {
     DataInputStream dis;
     PrintStream ps;
     ServerSocket serverSocket ;
